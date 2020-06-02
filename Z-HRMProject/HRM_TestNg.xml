@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="Suite HRM">
+
+
+
+	<test name="Pending Leave Request test case">
+		<classes>
+			<class name="test_cases.Test_PendingLeaveRequest"></class>	
+		</classes>
+	</test>
+	
+	<test name="Search User test case">
+		<classes>
+			<class name="test_cases.Test_SearchSystemUsers"></class>	
+		</classes>
+	</test>
+
+
+</suite>
+
+
